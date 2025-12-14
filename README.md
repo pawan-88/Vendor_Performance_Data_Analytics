@@ -53,7 +53,7 @@ Power BI Dashboard
 ## 📈 Power BI Dashboard
 
 ### 🔹 Vendor Performance Dashboard
-![Vendor Performance Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Vendor Performance Power BI Dashboard](powerbi_dashboard.png)
 
 ### Dashboard Highlights:
 - Total Sales & Purchase Variance
